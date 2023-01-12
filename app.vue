@@ -15,7 +15,7 @@
         </ul>
       </div>
     </header>
-    <main class=" md:flex pt-4 w-[80%] m-auto">
+    <main class=" md:flex pt-4 md:w-[90%] m-auto">
       <div class="md:w-1/2 w-full">
         <h2 class="text-5xl text-primary">音楽アルゴリズム</h2>
         <hr class="w-1/3 border-base-content border-t-2 my-4">
