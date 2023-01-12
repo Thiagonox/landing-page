@@ -2,11 +2,11 @@
   <div data-theme="cyberpunk" class="h-screen">
     <header class="navbar bg-base-100 w-[97%] m-auto">
       <div class="flex-1">
-        <div class="btn btn-ghost normal-case text-xl ">
+        <button src="https://thiagonox-landing-page.netlify.app/" class="btn btn-ghost normal-case text-xl ">
           <p>
             ロボテューンズ
           </p>
-        </div>
+        </button>
       </div>
       <div class="w-1/3">
         <ul class="w-full flex justify-between">
