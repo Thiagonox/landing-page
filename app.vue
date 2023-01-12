@@ -11,7 +11,6 @@
       <div class="w-1/3">
         <ul class="w-full flex justify-between">
           <li><a class="border-b-2 border-primary cursor-pointer">Home</a></li>
-          <li><a class="cursor-pointer">Menu</a></li>
           <li><a class="cursor-pointer">Contact Us</a></li>
         </ul>
       </div>
