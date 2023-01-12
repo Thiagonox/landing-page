@@ -8,7 +8,7 @@
           </p>
         </button>
       </div>
-      <div class="w-1/3">
+      <div class="md:w-1/3">
         <ul class="w-full flex justify-around">
           <li><a class="border-b-2 border-primary cursor-pointer">Home</a></li>
           <li><a class="cursor-pointer">Contact Us</a></li>
