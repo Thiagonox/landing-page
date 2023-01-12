@@ -31,7 +31,7 @@
         <button class="btn btn-outline">Learn More</button>
       </div>
       <div class="w-1/2 hidden md:block">
-        <img class="" src="https://drive.google.com/file/d/1-1hXxP4QKtDcF39r-Y69kvjzrLRdumDf/view?usp=share_link" alt="">    
+        <img class="" src="https://docs.google.com/uc?id=1-1hXxP4QKtDcF39r-Y69kvjzrLRdumDf" alt="">    
       </div>
     </main>
     <footer class="w-[97%] m-auto mt-2 flex items-center justify-between">
