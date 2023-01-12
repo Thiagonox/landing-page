@@ -2,7 +2,7 @@
   <div data-theme="cyberpunk" class="h-screen">
     <header class="navbar bg-base-100 w-[97%] m-auto">
       <div class="flex-1">
-        <button href="https://thiagonox-landing-page.netlify.app/" class="btn btn-ghost normal-case text-xl ">
+        <button @click="goToPage" class="btn btn-ghost normal-case text-xl ">
           <p>
             ロボテューンズ
           </p>
@@ -45,3 +45,12 @@
     </footer>
   </div>
 </template>
+<script>
+export default {
+  methods: {
+    goToPage() {
+      this.$nuxt.$router.push('https://thiagonox-landing-page.netlify.app/')
+    }
+  }
+}
+</script>
